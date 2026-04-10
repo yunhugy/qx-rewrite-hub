@@ -1,0 +1,3 @@
+# Ignore macOS / editor junk
+.DS_Store
+Thumbs.db
